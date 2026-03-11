@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi 👋 I'm Harini
 
-<!--
-**aharini-codes/aharini-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Full Stack Developer
 
-Here are some ideas to get you started:
+I am a Computer Science student passionate about building responsive web applications and backend systems using Java. I have hands-on experience through internships and projects in Java Full Stack Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Technical Skills
+
+- Java
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- SQL / MySQL
+- Git
+
+---
+
+## 🚀 Featured Projects
+
+### Student Management System
+Java and SQL application that manages student records with CRUD operations.
+
+### Online Banking System
+Java-based system supporting account creation, deposits, withdrawals, and transaction history.
+
+### Library Management System
+Application for managing library books and student records using Java and SQL.
+
+### E-Commerce Website
+Responsive online shopping website built with HTML, CSS, and Bootstrap.
+
+### Weather Application
+Weather forecast web application using JavaScript and API integration.
+
+---
+
+## 📚 Education
+B.Sc Computer Science  
+Sri Padmavathi Women's Degree & PG College
+
+---
+
+## 📫 Contact Me
+
+Email: harithaa2219@gmail.com  
+LinkedIn:www.linkedin.com/in/harini-a-344249384
